@@ -1,0 +1,35 @@
+html {
+    background-color: lightsteelblue;
+    font-family: "IBM Plex Mono", monospace;
+    text-align: center;
+}
+
+h1 {
+    color:black;
+}
+
+h2 {
+    color:midnightblue
+}
+
+table {
+    border: 2px solid royalblue;
+    border-collapse: separate;
+    width: 700px;
+    margin: 0 auto;
+    border-spacing: 2px;
+}
+
+thead {
+    background-color:steelblue;
+    color:midnightblue;
+    
+}
+
+tbody {
+    background-color:lightsteelblue;
+}
+
+span {
+    background-color:lightslategray;
+}
